@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "cb8e1674fa5f11a563d8f477",
+  "owner": "ynw8vu9",
+  "repo": "page-f943b27b2f7229fe0c6cb09d",
+  "title": "白嫖(SKY)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f943b27b2f7229fe0c6cb09d",
+      "a": "白嫖(SKY)",
+      "b": "机场官网线路发布页",
+      "entity": "白嫖(SKY)",
+      "brand": "白嫖(SKY)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "3d84095c67b0c777c2538ded193251ac1f7a56e53bf2ffc02213ceaa1cee844c",
+      "content": {
+        "primary_entity": "白嫖(SKY)",
+        "keyword1": "白嫖(SKY)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，白嫖(SKY)把套餐、流量和设备数摆在一起，方便按需挑选。基础版每月100GB流量支持3台设备，旗舰版每月300GB流量支持5台设备并带IPLC专线，团队版每月1000GB流量支持20台设备。选好套餐后，再根据手机、电脑或路由器选择对应客户端，导入订阅即可开始使用。",
+          "AI_HERO_SUBTITLE": "按需选套餐，多端轻松用",
+          "AI_HERO_INTRO": "白嫖(SKY)提供基础版、旗舰版和团队版三档订阅，流量从每月100GB到1000GB，在线设备数从3台到20台。不同档位对应不同线路与流媒体解锁程度，用户可结合自己的设备数量和每月用量来挑选。",
+          "AI_VISUAL_TITLE": "白嫖(SKY)订阅速览",
+          "AI_HIGHLIGHT_1": "基础版每月100GB，3台设备",
+          "AI_HIGHLIGHT_2": "旗舰版每月300GB，5台设备",
+          "AI_HIGHLIGHT_3": "团队版每月1000GB，20台设备",
+          "AI_FEATURES_TITLE": "套餐差异与使用侧重",
+          "AI_FEATURES_INTRO": "三档套餐在流量、设备数和线路上有明确区分，可以先确认常用设备数量，再对照每月大致用量选择合适档位。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版支持5台，团队版支持20台。手机、平板、电脑同时在线时，按实际台数选择更省。",
+          "AI_FEATURE_TITLE_2": "按流量定周期",
+          "AI_FEATURE_TEXT_2": "月付灵活，年付更划算。基础版年付150元，旗舰版年付350元，团队版年付850元，适合长期稳定使用。",
+          "AI_FEATURE_TITLE_3": "线路与解锁层级",
+          "AI_FEATURE_TEXT_3": "旗舰版含IPLC专线并对游戏加速优化，团队版提供VIP高带宽节点和企业定制路由，可按需求选择对应线路。",
+          "AI_CLIENTS_TITLE": "按设备挑客户端",
+          "AI_CLIENTS_INTRO": "手机、电脑和路由器各有对应客户端，配置方式以客户端自带文档为准。选择与设备系统匹配的版本，再导入订阅链接即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版每月15元、100GB流量、3台设备；旗舰版每月35元、300GB流量、5台设备并含IPLC专线；团队版每月85元、1000GB流量、20台设备。按年付分别仅需150元、350元和850元。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "先明确设备数量和月流量，再匹配客户端并导入订阅。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据常用设备数量和每月流量需求，在基础版、旗舰版和团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端匹配，对照配置说明检查网络环境和版本要求。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅链接，保存后更新节点，按文档完成连接设置。",
+          "AI_FAQ_TITLE": "常见疑问",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "白嫖(SKY)的套餐可以中途升级吗？",
+          "AI_FAQ_ANSWER_1": "套餐档位可按需更换，具体升级方式以订阅管理页显示的选项为准。升级后流量和在线设备数按新档位执行。",
+          "AI_FAQ_QUESTION_2": "一个账号能同时登录几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备，旗舰版5台，团队版20台。同时在线设备数超过套餐上限时，后续设备可能无法连接。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按月扣费，年付一次性支付更划算。基础版年付150元，旗舰版年付350元，团队版年付850元，权益与对应月付档位一致。",
+          "AI_FAQ_QUESTION_4": "订阅导入客户端后连不上怎么办？",
+          "AI_FAQ_ANSWER_4": "先确认订阅链接是否完整、客户端版本是否匹配，再检查本地网络。多数情况更新订阅或重启客户端后即可恢复。",
+          "AI_FAQ_QUESTION_5": "流量用完了会怎样？",
+          "AI_FAQ_ANSWER_5": "当月流量达到套餐上限后，超出部分可能限速或暂停，建议按实际用量选择档位，或升级到更高流量的套餐。",
+          "AI_CLOSING_TITLE": "选对套餐，稳定连接",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求选定档位，再按客户端文档导入订阅，即可开始使用白嫖(SKY)。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tcrbam.cn",
+    "host": "tcrbam.cn"
+  },
+  "file_hashes": {
+    "index.html": "2a8625a28ba3f1c2b51e078925dbc442c9c9003e20ee3048a41fa067569b6dd4",
+    "sitemap.xml": "8d6da6f0e77647f0461af7a2109848a203f3e0b9d324c22481cc7fc2cedac983",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8a7ccc671f075478629c0a31e5af12e04e51070f69888029d48615626f3ad04f",
+    "robots.txt": "954cda1072df56acdf000f7c204298131d4c2b98340a5d3895b2b84736b4f218",
+    "bcfc050bea0600e31602f2044ea6eec1.txt": "ac6a51168a02b6d7e1f40d93a4a8f6bc9d9996fba4ce0f7469557964067749c7"
+  },
+  "revision": "d483a6347afdc98e9058a3000c1893fb7821e561e856991a455486efc8d12a16"
+}
